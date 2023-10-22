@@ -83,8 +83,11 @@
 <div>
     <p>
     Importante! É preciso instalar as seguintes bibliotecas no ambiente:
-    selenium, unittest, pytest
-    Sugestão: utilizar o método pip para instalar as dependências em seu ambiente de desenvolvimento.
+    selenium, unittest, pytest</p>
+</div>
+
+<div>
+    <p>Sugestão: utilizar o método pip para instalar as dependências em seu ambiente de desenvolvimento.
     Ex:
     pip install selenium
     </p>

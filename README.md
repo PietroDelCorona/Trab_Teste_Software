@@ -79,3 +79,13 @@
 <div>
     <p>Entrega da atividade: 31/10/2023</p>
 </div>
+
+<div>
+    <p>
+    Importante! É preciso instalar as seguintes bibliotecas no ambiente:
+    selenium, unittest, pytest
+    Sugestão: utilizar o método pip para instalar as dependências em seu ambiente de desenvolvimento.
+    Ex:
+    pip install selenium
+    </p>
+</div>

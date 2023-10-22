@@ -13,6 +13,10 @@
 </div>
 
 <div>
+    <p>Link do site alvo de testes: <a href="" target="_blank"></a></p>
+</div>
+
+<div>
     <table>
         <caption>Relação de atividades realizadas por membro do grupo</caption>
         <tr>
@@ -20,7 +24,9 @@
             <th>Atividade</th>
         </tr>
         <tr>
-            <td>Pietro Del Corona</td>
+            <td>
+                <a href="https://github.com/PietroDelCorona" target="_blank">Pietro Del Corona</a>            
+            </td>
             <td>
                 <ul>
                     <li>Item da atividade</li>
@@ -28,7 +34,9 @@
             </td>
         </tr>
         <tr>
-            <td>Gabriel Zaffaloni</td>
+            <td>
+                <a href="" target="_blank">Gabriel Zaffaloni</a>
+            </td>
             <td>
                 <ul>
                     <li>Item da atividade</li>
@@ -36,7 +44,9 @@
             </td>
         </tr>
         <tr>
-            <td>Pedro Tian Xi</td>
+            <td>
+                <a href="" target="_blank">Pedro Tian Xi</a>
+            </td>
             <td>
                 <ul>
                     <li>Item da atividade</li>
@@ -44,7 +54,9 @@
             </td>
         </tr>
         <tr>
-            <td>Gabriel Castellani</td>
+            <td>
+                <a href="" target="">Gabriel Castellani</a>
+            </td>
             <td>
                 <ul>
                     <li>Item da atividade</li>
@@ -52,7 +64,9 @@
             </td>
         </tr>
         <tr>
-            <td>Pedro Henrique Menna</td>
+            <td>
+            <a href="" target="">Pedro Henrique Menna</a>
+            </td>
             <td>
                 <ul>
                     <li>Item da atividade</li>

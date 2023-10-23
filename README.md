@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td>
-                <a href="" target="_blank">Pedro Tian Xi</a>
+                <a href="https://github.com/PedroTxfl" target="_blank">Pedro Tian Xi</a>
             </td>
             <td>
                 <ul>

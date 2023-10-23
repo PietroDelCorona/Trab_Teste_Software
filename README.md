@@ -92,3 +92,68 @@
     pip install selenium
     </p>
 </div>
+
+<div>
+    <p>Abaixo está a tabela dos cenários a nível de sistema:</p>
+</div>
+
+<div>
+    <table>
+    <caption>Quadro dos Cenários de Testes a Nível de Sistema</caption>
+    <th>Nº de Cenário</th>
+    <th>Conteúdo da Atividade</th>
+    <tr>
+        <td>Cenário 1</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cenário 2</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cenário 3</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cenário 4</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cenário 5</td>
+        <td></td>
+    </tr>
+    </table>
+</div>
+
+<div>
+    <p>Abaixo está a tabela dos cenários a nível de teste unitário:</p>
+</div>
+
+<div>
+    <table>
+        <caption>Quadro dos Cenários de Testes Unitários</caption>
+        <th>Nº de Cenário</th>
+        <th>Conteúdo da Atividade</th>
+        <tr>
+            <td>Cenário 1</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>Cenário 2</td>
+            <td></td>
+        </tr> 
+         <tr>
+            <td>Cenário 3</td>
+            <td></td>
+        </tr> 
+         <tr>
+            <td>Cenário 4</td>
+            <td></td>
+        </tr> 
+         <tr>
+            <td>Cenário 5</td>
+            <td></td>
+        </tr>         
+    </table>
+
+</div>

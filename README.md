@@ -136,23 +136,23 @@
         <th>Conteúdo da Atividade</th>
         <tr>
             <td>Cenário 1</td>
-            <td></td>
+            <td>Fazer a pesquisa do site no motor de busca e tentar acessar pelo link fornecido.</td>
         </tr>
          <tr>
             <td>Cenário 2</td>
-            <td></td>
+            <td>Entrar no site alvo de avaliação do teste clicar no link de cadastro e tentar se cadastrar no site preenchendo os campos e clicar em "cadastrar".</td>
         </tr> 
          <tr>
             <td>Cenário 3</td>
-            <td></td>
+            <td>Visitar o site e tentar entrar com a conta cadastrada.</td>
         </tr> 
          <tr>
             <td>Cenário 4</td>
-            <td></td>
+            <td>Visitar o site completo, buscando os diferentes produtos do portfólio do site e encher o carrinho com as quantidades variadas.</td>
         </tr> 
          <tr>
             <td>Cenário 5</td>
-            <td></td>
+            <td>Buscar a finalização do processo de compra preenchendo os campos de endereço de entrega e esperar a resposta final do site.</td>
         </tr>         
     </table>
 

@@ -35,7 +35,7 @@
         </tr>
         <tr>
             <td>
-                <a href="" target="_blank">Gabriel Zaffaloni</a>
+                <a href="https://github.com/GabrielZaffalon" target="_blank">Gabriel Zaffaloni</a>
             </td>
             <td>
                 <ul>
@@ -55,7 +55,7 @@
         </tr>
         <tr>
             <td>
-                <a href="" target="">Gabriel Castellani</a>
+                <a href="https://github.com/gabcastellano8" target="_blank">Gabriel Castellano</a>
             </td>
             <td>
                 <ul>
@@ -65,7 +65,7 @@
         </tr>
         <tr>
             <td>
-            <a href="" target="">Pedro Henrique Menna</a>
+            <a href="https://github.com/pedromenna" target="_blank">Pedro Henrique Menna</a>
             </td>
             <td>
                 <ul>

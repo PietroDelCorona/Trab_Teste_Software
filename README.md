@@ -5,7 +5,7 @@
 </div>
 
 <div>
-    <p>Membros: Pietro Del Corona, Gabriel Castellani, Pedro Tian Xi, Pedro Henrique Menna, Gabriel Zaffaloni</p>
+    <p>Membros: Pietro Del Corona, Gabriel Castellano, Pedro Tian Xi, Pedro Henrique Menna, Gabriel Zaffaloni</p>
 </div>
 
 <div>
@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p>Link do site alvo de testes: <a href="" target="_blank"></a></p>
+    <p>Link do site alvo de testes: <a href="https://www.saucedemo.com" target="_blank"></a></p>
 </div>
 
 <div>
@@ -108,11 +108,11 @@
     </tr>
     <tr>
         <td>Cenário 2</td>
-        <td>Entrar no site alvo de avaliação do teste clicar no link de cadastro e tentar se cadastrar no site preenchendo os campos e clicar em "cadastrar".</td>
+        <td>Entrar no site alvo de avaliação do teste clicar no link de cadastro e tentar se cadastrar no site preenchendo os campos e clicar em "cadastrar". Testando todos os usuários disponíveis pelo site, assim como, as mudanças na senha fornecida</td>
     </tr>
     <tr>
         <td>Cenário 3</td>
-        <td>Visitar o site e tentar entrar com a conta cadastrada.</td>
+        <td>Visitar o site e tentar entrar com a conta cadastrada. Visualizar o carrinho de compras e remover os produtos já selecionados.</td>
     </tr>
     <tr>
         <td>Cenário 4</td>
@@ -120,7 +120,7 @@
     </tr>
     <tr>
         <td>Cenário 5</td>
-        <td>Buscar a finalização do processo de compra preenchendo os campos de endereço de entrega e esperar a resposta final do site.</td>
+        <td>Buscar a finalização do processo de compra preenchendo os campos de endereço de entrega e esperar a resposta final do site. Explorar os possiíveis erros gerados por não-preenchimento dos inputs ou cep inválido.</td>
     </tr>
     </table>
 </div>

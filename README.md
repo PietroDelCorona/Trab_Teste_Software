@@ -5,7 +5,7 @@
 </div>
 
 <div>
-    <p>Membros: Pietro Del Corona, Gabriel Castellano, Pedro Tian Xi, Pedro Henrique Menna, Gabriel Zaffaloni</p>
+    <p>Membros: Pietro Del Corona, Gabriel Castellano, Pedro Tian Xi, Pedro Henrique Menna, Gabriel Zaffalon</p>
 </div>
 
 <div>
@@ -35,7 +35,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/GabrielZaffalon" target="_blank">Gabriel Zaffaloni</a>
+                <a href="https://github.com/GabrielZaffalon" target="_blank">Gabriel Zaffalon</a>
             </td>
             <td>
                 <ul>

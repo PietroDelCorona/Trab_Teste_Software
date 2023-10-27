@@ -17,7 +17,7 @@ class CheckSite(unittest.TestCase):
         self.driver = webdriver.Chrome()
         warnings.filterwarnings(action="ignore", message="unclosed", category=ResourceWarning)
         
-        
+    
     def test_login(self):
         driver = self.driver
         driver.get("https://www.saucedemo.com")
@@ -39,6 +39,7 @@ class CheckSite(unittest.TestCase):
         time.sleep(5)
         
         self.assertIn("inventory", driver.page_source)
+    
         
         primeiro_produto = driver.find_element(By.NAME, "add-to-cart-sauce-labs-backpack")
         primeiro_produto.click()
@@ -84,6 +85,11 @@ class CheckSite(unittest.TestCase):
         self.assertIn("cart", driver.page_source)
         
         time.sleep(3)
+        
+        if "cart" in driver.current_url:
+            print("Carrinho completo!")
+        else:
+            print("Carrinho insponível!")
         
     def tearDown(self):
         self.driver.close()

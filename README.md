@@ -29,7 +29,9 @@
             </td>
             <td>
                 <ul>
-                    <li>Item da atividade</li>
+                    <li>Verificar o login</li>
+                    <li>Preencher o carrinho de compras com todos os itens</li>
+                    <li>Entrar na página do carrinho para verificar as compras realizadas</li>
                 </ul>
             </td>
         </tr>

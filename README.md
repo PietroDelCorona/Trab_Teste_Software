@@ -51,9 +51,9 @@
             </td>
             <td>
                 <ul>
-                    <li>Finalização de carrinho</li>
-                    <li>Preenchimento de informações</li>
-                    <li>Finalização de compra</li>
+                    <li>Finalizar carrinho</li>
+                    <li>Preencher informações</li>
+                    <li>Finalizar de compra</li>
                 </ul>
             </td>
         </tr>
@@ -161,7 +161,7 @@
          <tr>
             <td>Cenário 5</td>
             <td>
-                <li>Verifica inputs de informações do cliente.</li>
+                <li>Verificar inputs de informações do cliente.</li>
             </td>
         </tr>         
     </table>

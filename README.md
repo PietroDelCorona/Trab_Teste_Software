@@ -51,7 +51,9 @@
             </td>
             <td>
                 <ul>
-                    <li>Item da atividade</li>
+                    <li>Finalização de carrinho</li>
+                    <li>Preenchimento de informações</li>
+                    <li>Finalização de compra</li>
                 </ul>
             </td>
         </tr>

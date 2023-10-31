@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p>Link do site alvo de testes: <a href="https://www.saucedemo.com" target="_blank"></a></p>
+    <p>Link do site alvo de testes: <a href="https://www.saucedemo.com"></a></p>
 </div>
 
 <div>

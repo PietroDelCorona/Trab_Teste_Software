@@ -33,7 +33,6 @@
                     <li>Preencher o carrinho de compras com todos os itens</li>
                     <li>Entrar na página do carrinho para verificar as compras realizadas</li>
                     <li>Fazer a verificação do carrinho de compras ao entrar no site</li>
-
                 </ul>
             </td>
         </tr>

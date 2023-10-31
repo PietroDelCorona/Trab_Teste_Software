@@ -12,14 +12,28 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 
-class CheckSite(unittest.TestCase):
-    def setUp(self):
+class WebDriverManager:
+    def __init__(self):
+        self.driver = None
+
+    def setup_driver(self):
         self.driver = webdriver.Chrome()
-        warnings.filterwarnings(action="ignore", message="unclosed", category=ResourceWarning)
-        
-    
+
+    def teardown_driver(self):
+        if self.driver:
+            self.driver.quit()
+
+class CheckSite(unittest.TestCase):
+    def __init__(self, driver_manager):
+        super().__init__()
+        self.driver_manager = driver_manager
+        self.login_successful = False
+
     def test_login(self):
-        driver = self.driver
+        if self.driver_manager.driver is None:
+            self.driver_manager.setup_driver()
+
+        driver = self.driver_manager.driver
         driver.get("https://www.saucedemo.com")
         print("URL:", driver.current_url)
         self.assertIn("Swag Labs", driver.title)
@@ -91,9 +105,17 @@ class CheckSite(unittest.TestCase):
         else:
             print("Carrinho insponível!")
         
+        if "cart" in driver.current_url:
+            self.login_successful = True
+        
     def tearDown(self):
         self.driver.close()
         
 
 if __name__ == "__main__":
-    unittest.main()
+    driver_manager = WebDriverManager()
+    check_site = CheckSite(driver_manager)
+    check_site.test_login()
+    
+    # Certifique-se de chamar teardown_driver no final do teste
+    driver_manager.teardown_driver()

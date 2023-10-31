@@ -153,8 +153,6 @@
             <td>Decompor as tarefas em funções separadas da aplicação.
                 <ul>
                     <li>Verificar uma função de login separada</li>
-                    <li>Verificar a função que navega na página e clica nos itens</li>
-                    <li>Verificar a função que clica no carrinho para entrar na página para finalizar a compra.</li>
                 </ul>
             </td>
         </tr> 

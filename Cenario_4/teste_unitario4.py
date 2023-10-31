@@ -1,7 +1,7 @@
 
 import unittest
-from Cenario4 import CheckSite
-from Cenario4 import WebDriverManager  
+from cenario4 import CheckSite
+from cenario4 import WebDriverManager  
 
 class TestCheckSite(unittest.TestCase):
     def test_login_successful(self):

@@ -150,7 +150,13 @@
         </tr> 
          <tr>
             <td>Cenário 4</td>
-            <td></td>
+            <td>Decompor as tarefas em funções separadas da aplicação.
+                <ul>
+                    <li>Criar uma função de login separada</li>
+                    <li>Criar a função que navega na página e clica nos itens</li>
+                    <li>Criar a função que clica no carrinho para entrar na página para finalizar a compra.</li>
+                </ul>
+            </td>
         </tr> 
          <tr>
             <td>Cenário 5</td>

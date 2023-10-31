@@ -160,7 +160,9 @@
         </tr> 
          <tr>
             <td>Cenário 5</td>
-            <td></td>
+            <td>
+                <li>Verifica inputs de informações do cliente.</li>
+            </td>
         </tr>         
     </table>
 

@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p>Link do site alvo de testes:</p> <a href="https://www.saucedemo.com" target="blank"></a>
+    <p>Link do site alvo de testes: <a href="https://www.saucedemo.com" target="blank">https://www.saucedemo.com</a></p> 
 </div>
 
 <div>
@@ -32,6 +32,8 @@
                     <li>Verificar o login</li>
                     <li>Preencher o carrinho de compras com todos os itens</li>
                     <li>Entrar na página do carrinho para verificar as compras realizadas</li>
+                    <li>Fazer a verificação do carrinho de compras ao entrar no site</li>
+
                 </ul>
             </td>
         </tr>
@@ -41,7 +43,7 @@
             </td>
             <td>
                 <ul>
-                    <li>Item da atividade</li>
+                    <li>Não fez</li>
                 </ul>
             </td>
         </tr>
@@ -63,7 +65,7 @@
             </td>
             <td>
                 <ul>
-                    <li>Item da atividade</li>
+                    <li>Entrar no motor de busca para encontrar o site objeto de estudo do projeto</li>
                 </ul>
             </td>
         </tr>
@@ -73,7 +75,7 @@
             </td>
             <td>
                 <ul>
-                    <li>Item da atividade</li>
+                    <li>Testar um usuário para fazer o login do site</li>
                 </ul>
             </td>
         </tr>
